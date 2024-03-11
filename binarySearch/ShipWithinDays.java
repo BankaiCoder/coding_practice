@@ -1,4 +1,4 @@
-//package coding_practice.binarySearch;
+package coding_practice.binarySearch;
 
 
 public class ShipWithinDays {
